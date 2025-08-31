@@ -1,0 +1,21 @@
+{
+  "name": "Dashboard LVP",
+  "short_name": "Settings LVP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "description": "Aplicación de Login PWA",
+  "icons": [
+    {
+      "src": "img/LOGO_INSTALACION.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/LOGO_INSTALACION.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
